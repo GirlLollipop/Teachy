@@ -1,7 +1,9 @@
 {
-    "theme_color": "#2196f3",
-    "background_color": "#2196f3",
-    "display": "browser",
-    "scope": "/",
-    "start_url": "/"
+    "name": "Teachy",
+    "short_name": "tichi",
+    "lang": "es-ES",
+    "start_url": "https://girllollipop.github.io/",
+    "background_color": "#fda03a",
+    "theme_color": "#0581B0",
+    "display": "standalone"
 }
