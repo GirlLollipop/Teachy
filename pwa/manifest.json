@@ -1,9 +1,9 @@
 {
-    "short_name": "Teachy",
     "name": "Tichi",
-    "lang": "es",
+    "short_name": "Teachy",
+    "lang": "es-ES",
     "description": "Sitio de gestión educativa",
-    "start_url": "https://girllollipop.github.io/",
+    "start_url": "https://girllollipop.github.io/Teachy",
     "background_color": "#00aae7",
     "theme_color": "#00aae7",
     "dir": "auto",
